@@ -1,0 +1,1244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Safe Bathrooms</name>
+		<Placemark>
+			<name>Lost Province Brewing Co.</name>
+			<description><![CDATA[Src: https://www.facebook.com/lostprovincebrewingco/photos/a.1471844189693958.1073741830.1419802401564804/1697245273820514/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-81.68354449999998,36.21907600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Green Bean</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDYe7tOB_gM/?taken-by=deconstructinggender]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.79038100000002,36.0687771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1618 Wine Lounge</name>
+			<description><![CDATA[Src: https://www.facebook.com/guilfordgreenfoundation/photos/a.240175426019577.51795.210257812344672/1027688303934948/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.81334820000001,36.0921063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sup Dogs - Chapel Hill</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDZQn47mnyp/?taken-by=supdogsrestaurant]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.05546570000001,35.9135734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sup Dogs - Greenville</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDZQn47mnyp/?taken-by=supdogsrestaurant]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.37107349999997,35.6111139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Geeksboro Coffeehouse Cinema</name>
+			<description><![CDATA[Src: https://www.facebook.com/Geeksboro/photos/a.300798066684194.64323.300795156684485/902659139831414/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.8157336,36.0955455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Pinhook</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDV5Iv7tmCk/?taken-by=the_pinhook]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.90146770000001,35.9953086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Dog Salon</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDYhgaeoPL6/?taken-by=thedogsalon]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.81535780000002,35.2192376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Remedy Diner</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDYN5XNii5C/?taken-by=remedydiner]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.63689540000001,35.7783054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Green Monkey</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDUg30owzRJ/?taken-by=greenmonkeyraleigh]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.65605399999998,35.782886,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moogfest</name>
+			<description><![CDATA[http://www.moogfest.com/<br>Src:https://www.instagram.com/p/BDZRys7zM0v/?taken-by=moogfest]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.898619,35.9940329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edge of Urge - Raleigh</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDX8JIrs9OC/?taken-by=edgeofurge]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.63482010000001,35.7903701,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raleigh Soapery</name>
+			<description><![CDATA[Multiple pop up shop locations, see them here: http://raleighsoapery.com/pages/find-us<br><br>Src: https://www.instagram.com/p/BDYXw5Svof3/?taken-by=raleighsoapery]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.63817870000003,35.7795897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Videri Chocolate Factory</name>
+			<description><![CDATA[Src: https://twitter.com/viderichocolate/status/713783029458735104]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.64472739999997,35.7756518,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Interactive Resource Center</name>
+			<description><![CDATA[Src: https://www.facebook.com/gsodaycenter/photos/a.394134033847.171009.103218153847/10153485701388848/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.78416770000001,36.0704284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Cave</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDbGX7cJ23I/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.06251910000003,35.9107463,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mystery Brewing Company</name>
+			<description><![CDATA[Src: https://twitter.com/mysterybrewing/status/712999892092862464]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.11310600000002,36.070763,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Steel String Brewery</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<Point>
+				<coordinates>-79.0726148,35.9098546,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Personalized Fitness</name>
+			<description><![CDATA[Confirmed support via email http://personalizedfitnessnc.com/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.0762727,35.9105296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cameron's</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDWFzGtBefV/?taken-by=cameronsgiftgallery]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.06743699999998,35.9104584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Open Eye Cafe</name>
+			<description><![CDATA[Confirmed support via private message]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.07204960000001,35.909795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Syd's Hair Shop Inc</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDYlV_FD4eu/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.06436200000002,35.9105269,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BattleCat Coffee Bar</name>
+			<description><![CDATA[Confirmed support via private email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.57864599999999,35.578055,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PennyCup Coffee Co</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.5641339,35.58106670000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PennyCup at the YMI</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.55004109999999,35.5938278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mountain Mojo</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.44828059999998,35.54610299999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linda's Bar &amp; Grill</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDY_R_mGxVl/?taken-by=lindasbarandgrill]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.05277330000001,35.9144651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Market Street Coffee - Elliott Rd</name>
+			<description><![CDATA[Support confirmed via private Facebook message]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.02719669999999,35.9327624,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Market Street Coffee - Meadowmont Village</name>
+			<description><![CDATA[Support confirmed via Facebook message]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.01077709999998,35.9054316,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Market Street Coffee - Homestead Rd</name>
+			<description><![CDATA[Support confirmed via Facebook message]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.05848950000001,35.94953189999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Market Street Coffee - Carrboro</name>
+			<description><![CDATA[Support confirmed via email message]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.0715629,35.910692,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hero Hunter Comics</name>
+			<description><![CDATA[Support confirmed via private email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.66405250000003,35.5453802,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pilgrim United Church of Christ</name>
+			<description><![CDATA[Src: https://www.facebook.com/PilgrimUCC/photos/a.454769086737.250349.23310651737/10154051656616738/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9426613,35.9701993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Durham Coop Market</name>
+			<description><![CDATA[Src: https://www.facebook.com/durhamcoopmarket/photos/a.140652045983096.24509.108333482548286/959623730752586/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.91660300000001,35.99643500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shelf Life Art + Supply Co.</name>
+			<description><![CDATA[Src: https://www.facebook.com/ShelfLifeArt]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.81664599999999,36.0967849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cocoa Cinnamon - Geer St</name>
+			<description><![CDATA[https://www.facebook.com/CocoaCinnamonDream/photos/a.305726846105597.82408.292851927393089/1150902954921311/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9010705,36.00396000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cocoa Cinnamon - Hillsborough Rd</name>
+			<description><![CDATA[Src: https://www.facebook.com/CocoaCinnamonDream/photos/a.305726846105597.82408.292851927393089/1150902954921311/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.93013339999999,36.0116636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bean Traders</name>
+			<description><![CDATA[Src: https://twitter.com/beantraders/status/713853386676785152]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.93893279999998,35.90951520000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frisky Business Boutique</name>
+			<description><![CDATA[Src: https://www.facebook.com/FriskyBusinessBoutique/?rf=135170593198160]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.8361246,35.9475143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oval Park Grille</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDY8rCYlThT/?taken-by=ovalparkgrille]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9188929,36.01650199999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blue Corn Cafe</name>
+			<description><![CDATA[Src: https://twitter.com/CafeCorn/status/713860254136664064]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.92187189999999,36.0084038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Frostbite Ice Cream</name>
+			<description><![CDATA[Support confirmed via private email<br><br>http://www.frostbiteicecream.com/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.610547,35.5777679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Global Breath Studio</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.901588,35.995306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cup a Joe - Hillsborough St</name>
+			<description><![CDATA[Support confirmed in FB comments https://www.facebook.com/cupajoeraleigh/timeline]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.6774284,35.7899851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cup a Joe - Mission Valley</name>
+			<description><![CDATA[Support confirmed in FB comments https://www.facebook.com/cupajoeraleigh/timeline]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.67584979999998,35.7796411,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Talon Vapor</name>
+			<description><![CDATA[Support confirmed in FB comment: https://www.facebook.com/talonvapor/timeline]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.69559709999999,35.766557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monuts Donuts</name>
+			<description><![CDATA[Src: https://twitter.com/MonutsDonuts/status/713891281617944576]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.92156360000001,36.013911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Starlight Cafe</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.3733952,35.6113845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Metro 8 Steakhouse</name>
+			<description><![CDATA[Src: https://www.facebook.com/permalink.php?story_fbid=10103884005733297&id=86233996949&comment_id=10103885440008997&notif_t=share_comment]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9218712,36.0093088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ninth Street Bakery</name>
+			<description><![CDATA[Src: https://twitter.com/ninthstbakery/status/714056754217291776]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.90291430000002,35.9966967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Shed Jazz Club</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.89028429999996,35.9902072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pullen Memorial Baptist Church</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.66098310000001,35.7851034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Beehive</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.07151999999996,35.91068300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nightlight</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.06264499999997,35.911377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Carrack </name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9008447,35.9955902,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tazy's Burgers &amp; Grill</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.89416260000002,34.2120907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dogstar Tattoo Company</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.89029590000001,35.9901406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atomic Empire</name>
+			<description><![CDATA[Src: https://twitter.com/Atomic_Empire/status/714123880500047872]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.96339619999998,35.9659346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Community United Church of Christ</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.67563619999999,35.8007209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TLC Counseling</name>
+			<description><![CDATA[Support confirmed via email. You can use the bathroom here even if you're not a patient. <3 www.tlc-counseling.com]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.81958700000001,36.0933978,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unitarian Universalist Congregation</name>
+			<description><![CDATA[Support confirmed via email and on FB: https://www.facebook.com/uugreenvillenc/posts/10153907134535351]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.35877729999999,35.579782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unorthodoc</name>
+			<description><![CDATA[Support confirmed via email and FB: https://www.facebook.com/Unorthodoc-171549539571057/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.08165150000002,35.9115942,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haw River Farmhouse Ales</name>
+			<description><![CDATA[Src: https://www.facebook.com/hawriverales]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.319075,35.946722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unitarian Universalist Fellowship of Raleigh</name>
+			<description><![CDATA[Support confirmed via email and http://www.uufr.org/index.php/community-life/lgbtq]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.67997420000002,35.8006413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1005 Wellness Center</name>
+			<description><![CDATA[Support confirmed via email.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.91970900000001,36.013986,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Club Snap</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/LikeClubSnap/info/?tab=overview]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.2571979,36.0950819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weaver Street Market</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/weaverstreet/posts/10154721066714418]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.07160490000001,35.9110867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weaver Street Market</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/weaverstreet/posts/10154721066714418]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.06616789999998,35.8801031,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weaver Street Market</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/weaverstreet/posts/10154721066714418]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.09973339999999,36.0735329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Judea Reform Congregation</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/Judea-Reform-489402415789/timeline]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.95492819999998,35.9782965,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luna Rotisserie and Empanadas</name>
+			<description><![CDATA[Src: https://www.facebook.com/749437915135634/photos/a.806402316105860.1073741828.749437915135634/973560802723343/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9008417,35.9954828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruby Deluxe</name>
+			<description><![CDATA[Src: https://www.facebook.com/RubyDeluxeRaleigh/?fref=nf# and https://www.instagram.com/p/BDXGPIcASR-/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.63989400000003,35.775173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vimala's Curryblossom Cafe</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/curryblossom/?fref=nf]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.062884,35.909948,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mystery Brewing Public House</name>
+			<description><![CDATA[Src: https://twitter.com/mysterybrewing/status/712999892092862464]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.11101350000001,36.072917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unification Tattoo Parlour </name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.55274689999999,35.6065055,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Design Archives Emporium</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.7907803,36.0687587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Design Archives Vintage and Handmade Emporium</name>
+			<description><![CDATA[Support confirmed via email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.25075090000001,36.0975563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montreat Conference Center</name>
+			<description><![CDATA[Src: https://twitter.com/Hewilk92/status/714557993149415426]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.29930619999999,35.6478067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deep Roots Market</name>
+			<description><![CDATA[Support confirmed via FB message – All gender sign on the bathroom.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.7933122,36.0795576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Sojourner Whole Earth Provisions</name>
+			<description><![CDATA[Src - FB post: https://www.facebook.com/The-Sojourner-Whole-Earth-Provisions-179422324043/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.37304699999999,35.611669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beer Study</name>
+			<description><![CDATA[Src: https://www.facebook.com/Beer-Study-164301300376223/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.06433149999998,35.91042280000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scuppernong Books</name>
+			<description><![CDATA[Src: https://twitter.com/ScupBooks/status/714519185217470464]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.79080959999999,36.069965100000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trade &amp; Lore Coffee</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/photo.php?fbid=247702725574010&set=a.128565664154384.1073741825.100010028531648&type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-82.55583489999998,35.5946263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wake Forest Baptist Medical Center</name>
+			<description><![CDATA[Support confirmed via staff email]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.26856459999999,36.0897955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YWCA Greensboro</name>
+			<description><![CDATA[Support confirmed via email and https://www.facebook.com/YWCA.Greensboro/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.76155899999998,36.08776099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Midwood Country Club</name>
+			<description><![CDATA[Src: Member of equalitync.org/business - https://www.facebook.com/674856015963968/photos/a.773625592753676.1073741828.674856015963968/943299372452963/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.80472499999996,35.220085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Station</name>
+			<description><![CDATA[Src: Member of equalitync.org/business - https://www.facebook.com/thestationclt/photos/a.644013309037470.1073741829.640825486022919/800750606697072/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.80433490000001,35.2199741,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Duke University</name>
+			<description><![CDATA[Src: https://today.duke.edu/2016/03/genderid]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.9382286,36.0014258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Durty Bull Brewing Co</name>
+			<description><![CDATA[Src: https://twitter.com/durtybull/status/713023813353672705]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.89818000000002,36.001224,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Happy Girls Bras &amp; Breastfeeding</name>
+			<description><![CDATA[Support confirmed via email.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.40994419999998,35.60426339999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Acme Food &amp; Beverage Co</name>
+			<description><![CDATA[Src: https://www.facebook.com/ACMEcarrboro/photos/a.304420517637.147175.64809422637/10154277181967638/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.07088349999998,35.91039120000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fullsteam Brewery</name>
+			<description><![CDATA[https://www.facebook.com/fullsteambrewery/photos/a.126802103182.103716.29377898182/10153740703098183/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.89963590000002,36.0030985,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Havana Sandwich Shop</name>
+			<description><![CDATA[https://twitter.com/oldhavanaeats/status/714127111842361346]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.89809279999997,35.9933185,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Parlour</name>
+			<description><![CDATA[Src: https://twitter.com/parlourdurham/status/713457203974430720]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.90222,35.996644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pure Pizza</name>
+			<description><![CDATA[https://twitter.com/purepizzaclt]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.80798290000001,35.22032799999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pure Pizza</name>
+			<description><![CDATA[Src: https://twitter.com/purepizzaclt]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.83811300000002,35.227619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>American Dance Festival</name>
+			<description><![CDATA[Support confirmed via email.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.91998139999998,36.0086343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Davidson College</name>
+			<description><![CDATA[Src: http://www.davidson.edu/news/news-stories/160325-college-statement-on-recent-north-carolina-legislation]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.84519660000001,35.5000366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wake Forest University</name>
+			<description><![CDATA[Src: http://news.wfu.edu/2016/03/25/media-advisory-wfu-statement-on-recent-nc-legislation/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.27797190000001,36.1319172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crave Restaurant and Bar</name>
+			<description><![CDATA[Src: https://twitter.com/CraveUptown/status/713883141077909509/photo/1?utm_source=fb&utm_medium=fb&utm_campaign=CraveUptown&utm_content=713883141077909509]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.37258639999999,35.61175720000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LGBT Center of Raleigh</name>
+			<description><![CDATA[Support confirmed via email and FB: https://www.facebook.com/lgbtcenterofraleigh]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.6453955,35.77598480000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elon University</name>
+			<description><![CDATA[Src: https://www.campuspride.org/north-carolina-colleges-issue-public-statements-on-hb2-and-how-it-impacts-their-campus/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.50434689999999,36.1048739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guilford College</name>
+			<description><![CDATA[Src: https://www.campuspride.org/north-carolina-colleges-issue-public-statements-on-hb2-and-how-it-impacts-their-campus/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.89075639999999,36.0963643,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Queens University of Charlotte</name>
+			<description><![CDATA[Src: https://www.campuspride.org/north-carolina-colleges-issue-public-statements-on-hb2-and-how-it-impacts-their-campus/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.83293479999998,35.1887678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Carolina Central University</name>
+			<description><![CDATA[Src: https://www.campuspride.org/north-carolina-colleges-issue-public-statements-on-hb2-and-how-it-impacts-their-campus/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.8962889,35.97298200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salud Beer Shop</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDVtN7ZoL0s/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.80409099999997,35.247796,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FūD at Salud</name>
+			<description><![CDATA[Src: https://www.instagram.com/p/BDY6N9nNqGi/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.80404820000001,35.2477994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triangle Acupuncture Clinic</name>
+			<description><![CDATA[Src: https://www.facebook.com/photo.php?fbid=10207364578007170&set=p.10207364578007170&type=3&theater - You can use the bathroom here whether you are a patient or not]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.03371290000001,35.9281218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triangle Acupuncture Clinic</name>
+			<description><![CDATA[Src: https://www.facebook.com/photo.php?fbid=10207364578007170&set=p.10207364578007170&type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.70712079999998,35.8162305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raffaldini Vineyards &amp; Winery</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/TGf_pya_JxMO4lJNtV9QqmCiJLQAP1_-8H4gT8eCsI8XoaeHjdv27WflbrF1CGWKk5QIim7jB_18PqhOvzRPSN90gBgC1NflzydzMk3G92GYsXsDUQMHzWowPfW72d00_DIy6VZMnCMgz5GqspevPhyajVUKXEw7ozp4DEuxCiSgWILHPBkgyY2vjRFsP7R1-2pax3PF" height="200" width="auto" /><br><br>Support confirmed via email, photo of bathroom attached]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/TGf_pya_JxMO4lJNtV9QqmCiJLQAP1_-8H4gT8eCsI8XoaeHjdv27WflbrF1CGWKk5QIim7jB_18PqhOvzRPSN90gBgC1NflzydzMk3G92GYsXsDUQMHzWowPfW72d00_DIy6VZMnCMgz5GqspevPhyajVUKXEw7ozp4DEuxCiSgWILHPBkgyY2vjRFsP7R1-2pax3PF</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.88787000000002,36.180389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flaming Amy's Burrito Barn</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/nN9NtSFFUvpRppwysKz-JgkBFpdHBcHGSLDDn3SzH9yNdUsNmhwp8JIBD-QyvjyT-5H9POOnD-RZt269zlplsvvomA-oRbARkt7ea3I6UhAeUUqjlfXULS74aPZylAdYjrNjpC2oD3z6WJbvXBAS9RMT0YuqWrUn1z2MMBjlOEBzrt07PW0HTN14Rd5aiqep8-idnVlQ" height="200" width="auto" /><br><br>Support confirmed via email and attached photo - See the sticker on the front door above the handle!]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/nN9NtSFFUvpRppwysKz-JgkBFpdHBcHGSLDDn3SzH9yNdUsNmhwp8JIBD-QyvjyT-5H9POOnD-RZt269zlplsvvomA-oRbARkt7ea3I6UhAeUUqjlfXULS74aPZylAdYjrNjpC2oD3z6WJbvXBAS9RMT0YuqWrUn1z2MMBjlOEBzrt07PW0HTN14Rd5aiqep8-idnVlQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.89728939999998,34.21222780000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flaming Amy's Burrito Barn</name>
+			<description><![CDATA[Support confirmed via email and attached photo - see the sign on the door above the handle!]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.89792849999998,34.0457489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flaming Amy's Burrito Barn</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/iAM-gftcfWZrBG6KzCuKjCmVr7RzETiBZcCVdQ52YB1s10Ouq6gYrrpVmrCMzzFen8KyiVdNB33Np72HwADt8SUcQ8IIIWDMBlhcxEsb2d0KUlh9lIcONLas-VhaeUk6GlJr39LyivUukuPdXA5_DFu1iBtdtWwUxaFQu-I-anNXQ3n3_6pUIZkZosy1XcML_2En-FvO" height="200" width="auto" /><br><br>Support confirmed via email and attached photo  - see the sign above the door handle!]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/iAM-gftcfWZrBG6KzCuKjCmVr7RzETiBZcCVdQ52YB1s10Ouq6gYrrpVmrCMzzFen8KyiVdNB33Np72HwADt8SUcQ8IIIWDMBlhcxEsb2d0KUlh9lIcONLas-VhaeUk6GlJr39LyivUukuPdXA5_DFu1iBtdtWwUxaFQu-I-anNXQ3n3_6pUIZkZosy1XcML_2En-FvO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.88937140000002,34.1989755,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flaming Amy's Burrito Barn</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/J2zCznMVk_p8xv0Fv9cyvvSMFyh8eUo_12_4ExVu1oxHoR8gBSYlTBRtX0QdkcqhmX1YYi4wPaY_Ow879wWTvhcYyy-Qaz70nzn0eiPOoGufXQ71c4EunmwjAmV8xf_TI6YAFHPeLpkS9E8RQJuSa3ENTtXiwQSUxXDlYkkXmhGRgw1Hw8IPEU4gTge94T5MEjBQDU03" height="200" width="auto" /><br><br>Support confirmed via email and attached photo! See the sign above the door]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/J2zCznMVk_p8xv0Fv9cyvvSMFyh8eUo_12_4ExVu1oxHoR8gBSYlTBRtX0QdkcqhmX1YYi4wPaY_Ow879wWTvhcYyy-Qaz70nzn0eiPOoGufXQ71c4EunmwjAmV8xf_TI6YAFHPeLpkS9E8RQJuSa3ENTtXiwQSUxXDlYkkXmhGRgw1Hw8IPEU4gTge94T5MEjBQDU03</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.87715909999997,34.310089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>McKinney</name>
+			<description><![CDATA[Src: https://twitter.com/McKinney/status/713459477664690178]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.90446380000004,35.993246,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Angelina's Kitchen</name>
+			<description><![CDATA[Src: https://www.facebook.com/Angelinas-Kitchen-70972889537/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.18121739999998,35.7207635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flanders Gallery</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/eTbMny-GzWU8zgRQBkkqSEsxvY2VBnTCkXmDa8UODasSuD461sfagREF7nUDCuy4PHBfE0r28cUBdzYO6RxcMh2R0g2rq90F4vBZUWcHqpjIEdWWuzNsNRgme73nZfgkwKtcUqDmeCheAFsiLJJxsCVcSCGydssGa9qT6bXtK04t8_II3WaBb63W_P2A2TxS4-TfJH4V" height="200" width="auto" /><br><br>Support confirmed via email and attached photo of all-gender restroom.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/eTbMny-GzWU8zgRQBkkqSEsxvY2VBnTCkXmDa8UODasSuD461sfagREF7nUDCuy4PHBfE0r28cUBdzYO6RxcMh2R0g2rq90F4vBZUWcHqpjIEdWWuzNsNRgme73nZfgkwKtcUqDmeCheAFsiLJJxsCVcSCGydssGa9qT6bXtK04t8_II3WaBb63W_P2A2TxS4-TfJH4V</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.63658909999998,35.773754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lump Gallery</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/zEh80makpamTXF8AaC2hSuHfr9v9jWdnSk7SItU3UxLs8KtULzztGEwHrryNwd6u9iNPILZLJzKdyOjOzGWUGkih_8wDyz8slV3RK2tctiaCgGDKNNurMYny3lyYpqNFuJuRtkaawl7EH-EsJZFpXL8--zFlPv8YDFq717N27mU23y2MlhjIUVST4wmZ79Ac7x_2Slff" height="200" width="auto" /><br><br>Support confirmed via email and attached photo of all-gender bathroom, which it shares with Flanders Gallery (also on the map)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/zEh80makpamTXF8AaC2hSuHfr9v9jWdnSk7SItU3UxLs8KtULzztGEwHrryNwd6u9iNPILZLJzKdyOjOzGWUGkih_8wDyz8slV3RK2tctiaCgGDKNNurMYny3lyYpqNFuJuRtkaawl7EH-EsJZFpXL8--zFlPv8YDFq717N27mU23y2MlhjIUVST4wmZ79Ac7x_2Slff</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.6366008,35.7737509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vida pour Tea</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/0XSxUvoHnEXKETS0Sfa3wA5ciwaNvGgUYiOCKRQXu3uLZgHvtYYcxYmpXaUMuFkYK90fbR3u2-7HmtAg8k6d3LAWjWWUHEtERmoMLS5qQ8PlHyXADJiqNCrdByEWmct7j-X-5j2_qxit_hZp0yhpYjhBoA2cjVTbfiLaZZkbDLcM2E5kzf0UxwJeZ2zhrpYkPr3BqLhP" height="200" width="auto" /><br><br>Support confirmed via email and attached photo of all gender restroom sign.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/0XSxUvoHnEXKETS0Sfa3wA5ciwaNvGgUYiOCKRQXu3uLZgHvtYYcxYmpXaUMuFkYK90fbR3u2-7HmtAg8k6d3LAWjWWUHEtERmoMLS5qQ8PlHyXADJiqNCrdByEWmct7j-X-5j2_qxit_hZp0yhpYjhBoA2cjVTbfiLaZZkbDLcM2E5kzf0UxwJeZ2zhrpYkPr3BqLhP</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.78442000000001,36.1010459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aunt Kerry's Pet Stop</name>
+			<description><![CDATA[Members of Equality NC Business]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.89314569999999,34.1770155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Carolina Hillel</name>
+			<description><![CDATA[Src: http://www.dailytarheel.com/article/2016/01/newly-neutral-hillel-installs-gender-nonspecific-bathrooms]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.05659000000003,35.91047,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joe Van Gogh Broad Street</name>
+			<description><![CDATA[https://twitter.com/AScho3/status/715219907332411394]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.91896480000003,36.015767,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goshen Timber Frames</name>
+			<description><![CDATA[Src: https://twitter.com/GoshenTF/status/715253583944544257]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-83.38111559999999,35.181255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trolly Stop Hotdogs</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/DeSHDp4tPMFYLT3n5QJftDxdGYrE41yQmzSfneqxqxggv_GhyNZ_Nc6ZZzVMmm4EkAkNCFwsZmckkOK1ADufpHcYtA5UkMM0m-in0taD430Y6ubi6-ipuv9zveTGcUMitO1NSIyacmvI-eI3T_nPmYed_G1Ki3_NOiaY5OjfHQ-Ug2tpOmuKy8-_MbKTkK3VIh5IDsaY" height="200" width="auto" /><br><br>Support confirmed via email and attached photo of bathroom sign.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/DeSHDp4tPMFYLT3n5QJftDxdGYrE41yQmzSfneqxqxggv_GhyNZ_Nc6ZZzVMmm4EkAkNCFwsZmckkOK1ADufpHcYtA5UkMM0m-in0taD430Y6ubi6-ipuv9zveTGcUMitO1NSIyacmvI-eI3T_nPmYed_G1Ki3_NOiaY5OjfHQ-Ug2tpOmuKy8-_MbKTkK3VIh5IDsaY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.88512209999999,34.2224807,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LGBTQ Center of Durham</name>
+			<description><![CDATA[Src: http://www.lgbtqcenterofdurham.org/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.89783899999998,36.000278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carolina Wild Juice</name>
+			<description><![CDATA[Src: https://www.facebook.com/dtracz/posts/10102896954920989]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.74636520000001,35.0551638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pfeiffer University</name>
+			<description><![CDATA[Src: http://www.pfeiffer.edu/news/pfeiffer-universitys-response-legislation-passed-north-carolina-general-assembly]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.28045839999999,35.4848823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pfeiffer University at Charlotte</name>
+			<description><![CDATA[Src: http://www.pfeiffer.edu/news/pfeiffer-universitys-response-legislation-passed-north-carolina-general-assembly]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.84950700000002,35.166707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pfeiffer University - Morrisville</name>
+			<description><![CDATA[Src: http://www.pfeiffer.edu/news/pfeiffer-universitys-response-legislation-passed-north-carolina-general-assembly]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.82327599999998,35.864173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flying Biscuit Cafe</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/jDjW8yGD7LcXq8jee1_x1VB0YIz0k8R6chruxSZQ3aTJYilzXUM0JtWsLwFEZZrBW8j8fOn8Km0mPrlmvzysctsoRFufgMM_699gqxXbjYGY1wJONU8g_OXN-qqHDpCSdkxAGBWmOCvpZKLQ8uwpErP4L_9W7hRyZ-PiaISAE_o" height="200" width="auto" /><br><br>Support confirmed via FB message and attached photo of all gender restrooms.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/jDjW8yGD7LcXq8jee1_x1VB0YIz0k8R6chruxSZQ3aTJYilzXUM0JtWsLwFEZZrBW8j8fOn8Km0mPrlmvzysctsoRFufgMM_699gqxXbjYGY1wJONU8g_OXN-qqHDpCSdkxAGBWmOCvpZKLQ8uwpErP4L_9W7hRyZ-PiaISAE_o</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.65987500000001,35.789615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fermental Beer &amp; Wine</name>
+			<description><![CDATA[Support confirmed via non-discrimination policy sent over email: <br><br>Fermental does not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations. These activities include, but are not limited to, hiring and firing of staff, selection of volunteers and vendors, and provision of services. We are committed to providing an inclusive and welcoming environment for all members of our staff, clients, volunteers, subcontractors, vendors, and clients.<br><br>Fermental is an equal opportunity employer. We will not discriminate and will take affirmative action measures to ensure against discrimination in employment, recruitment, advertisements for employment, compensation, termination, upgrading, promotions, and other conditions of employment against any employee or job applicant on the bases of race, color, gender, national origin, age, religion, creed, disability, veteran's status, sexual orientation, gender identity or gender expression.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-77.81661109999999,34.2738988,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Piedmont Community College</name>
+			<description><![CDATA[Src: http://www.cpcc.edu/about/parking-maps-and-locations/restroom-facilities -- Specific locations of bathrooms are listed in the link]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.83044469999999,35.2173949,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lucas Patton Design</name>
+			<description><![CDATA[Support confirmed via email, has an all-gender bathroom sign en route! Photo to come upon installation.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-83.23333600000001,35.042897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Castle Video &amp; News</name>
+			<description><![CDATA[Src: https://www.facebook.com/190449480966904/photos/a.654697564542091.1073741825.190449480966904/1169969323014910/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.6383917,35.7978663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Video &amp; News</name>
+			<description><![CDATA[Src: https://www.facebook.com/183919784966279/photos/a.726990030659249.1073741825.183919784966279/1198765533481694/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-78.94980380000004,35.0856666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Market Video &amp; News</name>
+			<description><![CDATA[Src: https://www.facebook.com/117858961620145/photos/a.503062509766453.1073741825.117858961620145/1057815654291133/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-80.00309900000002,35.944116,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Outlet Video &amp; News</name>
+			<description><![CDATA[Src: https://www.facebook.com/OutletVideo/photos/pcb.1044902775585005/1044902752251674/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.42825240000002,36.0683413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanford Video &amp; News</name>
+			<description><![CDATA[Src: https://www.facebook.com/138289072897935/photos/a.578721035521401.1073741825.138289072897935/1079181428808690/?type=3&theater]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.17523899999998,35.472763,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Replacements, Ltd.</name>
+			<description><![CDATA[Src: https://www.facebook.com/Replacements/, 100% rating on HRC's Corporate Equality Index: http://asp.hrc.org/issues/workplace/organization_profile.asp?organization_id=800&search_id=1&search_type=Quick]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-79.68307700000003,36.06262100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

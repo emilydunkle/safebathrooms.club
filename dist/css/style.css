@@ -1,0 +1,222 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 5px;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #fefefe;
+}
+
+.site-width {
+  width: 100%;
+}
+
+@media (min-width: 850px) {
+  body {
+    margin: 0;
+  }
+
+  .site-width {
+    width: 85%;
+    margin: 0 auto;
+  }
+}
+
+/* Site Header */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  margin: 0 auto;
+  height: 90px;
+  padding: 0 15px;
+}
+
+.header__logo {
+  height: 50px;
+  width: auto;
+}
+
+.header__nav {
+  list-style-type: none;
+  padding: 0;
+}
+
+.header__nav > li {
+  margin-right: 0;
+  margin: 0;
+}
+
+.header__nav > li:not(:last-child) {
+  margin: 0;
+}
+
+@media (min-width: 450px) {
+  .header__nav > li {
+    display: inline;
+  }
+
+  .header__nav > li:not(:last-child) {
+    margin-right: 1em;
+  }
+
+  .site-header {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 850px) {
+  .site-header {
+    font-size: 2.5em;
+  }
+}
+
+/* Map */
+.map {
+  margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.map iframe {
+  width: 100%;
+  height: 66vh;
+}
+
+/* List of Bathrooms */
+.section {
+  padding: 0 .5em 0;
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
+
+@media (min-width: 450px) {
+  .section {
+    padding: 0 1em 0;
+  }
+}
+
+@media (min-width: 550px) {
+  .section {
+    padding: 0 1.2em 0;
+  }
+}
+
+@media (min-width: 850px) {
+  .section {
+    padding: 0 1.5em 0;
+  }
+}
+
+.br-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  list-style-type: none;
+  margin: 0 0 10px 0;
+  overflow: auto;
+  padding: 0;
+}
+
+.br {
+  position: relative;
+  padding: 0 15px 15px 0;
+  width: 100%;
+  float: left;
+}
+
+@media (min-width: 450px) {
+  .br {
+    width: 50%;
+  }
+}
+
+@media (min-width: 550px) {
+  .br {
+    width: 33%;
+  }
+}
+
+@media (min-width: 850px) {
+  .br {
+    width: 20%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .br {
+    width: 16%;
+  }
+}
+
+.br-name {
+  margin:0 0 .5em;
+}
+
+.br-category {
+  margin: 0;
+  font-size: .8em;
+  color: #666;
+}
+
+.br-address {
+  margin: 1em 0 0;
+  font-size: .8em;
+  line-height: 1.5em;
+}
+
+.icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.br-links {
+  cursor: pointer;
+  padding-left: 0;
+  list-style-type: none;
+  margin-top: .5em;
+}
+
+.br-links > li {
+  display: inline;
+}
+
+.br-links > li:not(:last-child) {
+}
+
+.hr {
+  width: 95%;
+  margin: 0 auto;
+}
+
+/* Footer */
+.footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  color: #fefefe;
+  background-color: #222;
+  height: 33vh;
+}
+
+.footer__nav {
+}
+
+.footer__nav > li {
+  list-style-type: none;
+}
+
+.footer__nav > li > a {
+  color: white;  
+  margin: 0;
+}
+
+.footer__nav > li > a:visited {
+  color: white;
+  margin: 0;
+}
+

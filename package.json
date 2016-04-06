@@ -1,0 +1,17 @@
+{
+  "name": "safebathrooms.club",
+  "version": "1.0.0",
+  "description": "A map of gender neutral and non-descriminatory bathrooms #NoHateInMyState",
+  "main": "index.js",
+  "dependencies": {
+    "gtran-kml": "^1.1.10",
+    "handlebars": "^4.0.5",
+    "lodash": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DJ Hartman, Emily Waggoner",
+  "license": "ISC"
+}
