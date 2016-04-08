@@ -2,7 +2,6 @@ const task = process.argv[2]
 const fs = require('fs')
 const path = require('path')
 const kml = require('gtran-kml')
-const log = console.log.bind(console)
 const hb = require('handlebars')
 const _ = require('lodash')
 
@@ -31,7 +30,7 @@ function kml2GeoJson () {
   kml.toGeoJson(kmlSrc)
   .then(function (json) {
     const features = JSON.stringify(json, null, ' ')
-    log(`Wrote ${json.features.length} bathrooms to ${GEO_JSON}`)
+    console.log(`Wrote ${json.features.length} bathrooms to ${GEO_JSON}`)
     fs.writeFileSync(geoJson, features)
   })
 }

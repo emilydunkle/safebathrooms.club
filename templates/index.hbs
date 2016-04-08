@@ -4,35 +4,55 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Safe Bathrooms Club</title>
-        <meta name="description" content="#NoHateInMyState">
+        <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/style.css">
+        <link rel="apple-touch-icon" sizes="57x57" href="/img/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/img/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/img/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/img/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/img/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/img/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/img/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <meta property="og:image" content="/img/sbc.logo.blue.png">
     </head>
     <body>
       <header class="site-width header">
-        <img class="header__logo" src="img/sbc.logo.png" alt="Safe Bathrooms Club">
+        <img class="header__logo" src="/img/sbc.logo.png" alt="Safe Bathrooms Club">
         <ul class="header__nav">
           <li><a href="#">About</a></li>
           <li><a href="#">Submit</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
       </header>
+
+      <section class="site-width">
+        <h1>Businesses with safe bathrooms for everyone regardless of gender identity or sexual orientation. <a href="">Add to the map.</a></h1>
+
+      </section>  
+
       <section class="map">
         <iframe src="https://www.google.com/maps/d/embed?mid=zL2fEel0lp_I.kkesJKJtTr1Q"></iframe>
-      </section>
-                             
-      <section class="site-width">
-        <h2 class="br-list-header">Listing bathrooms by city</h2>
       </section>
 
       {{#each cities}}
         <section class="site-width">
-          <h2 id="#{{name}}" class="city-name"><a href="#{{name}}">{{name}}</a></h2>
+          <h2 id="#{{name}}" class="city-name">{{name}}</h2>
           <ul class="br-list">
             {{#each bathrooms}}
               <li class="br">
-                <h4 class="br-name">{{name}}</h4>
                 <p class="br-category">{{category}}</p>
+                <h4 class="br-name">{{name}}</h4>
                 <a href="https://www.google.com/maps/place/@{{c1}},{{c0}},17z"><address class="address">
                   {{address}} {{zipcode}}
                 </address></a>
