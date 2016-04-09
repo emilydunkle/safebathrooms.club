@@ -35,34 +35,3 @@ function kml2GeoJson () {
   })
 }
 
-function index () {
-  const file = fs.readFileSync('templates/index.hbs')
-  const template = hb.compile(file.toString())
-  const bathrooms = JSON.parse(fs.readFileSync('data/bathrooms.json'))
-
-  const cities = _(bathrooms)
-    .groupBy('city')
-    .map(function (city) { 
-      return { 
-        name: city[0].city,
-        bathrooms: city
-      }
-    })
-    .sortBy('name')
-    .value()
-   
-  fs.writeFileSync('dist/index.html', template({ 
-    cities: cities.slice(1),
-  }))
-}
-
-function bathrooms () {
-  const file = fs.readFileSync('templates/bathroom.hbs')
-  const bathrooms = JSON.parse(fs.readFileSync('data/bathrooms.json'))
-  const template = hb.compile(file.toString())
-
-  fs.writeFileSync('dist/bathroom.html', template({
-    bathroom: bathrooms[0],
-  }))
-}
-

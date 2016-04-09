@@ -14,17 +14,6 @@ body {
   width: 100%;
 }
 
-@media (min-width: 850px) {
-  body {
-    margin: 0;
-  }
-
-  .site-width {
-    width: 85%;
-    margin: 0 auto;
-  }
-}
-
 /* Site Header */
 .header {
   display: flex;
@@ -95,7 +84,7 @@ body {
 
 /* List of Bathrooms */
 section {
-  padding: 0 3em 0;
+  padding: 0 1em 0;
   display: block;
   width: 100%;
   overflow: auto;
@@ -103,12 +92,9 @@ section {
 
 @media (min-width: 450px) {
   .map {
-    width: 90%;
   }
-  section,
   .site-width {
-    width: 90%;
-    padding: 0 0 0;
+    padding: 0 2em 0;
     margin: 0 auto;
   }
   .hr {
@@ -119,12 +105,9 @@ section {
 
 @media (min-width: 550px) {
   .map {
-    width: 85%;
   }
-  section,
   .site-width {
-    width: 85%;
-    padding: 0 0 0;
+    padding: 0 3em 0;
     margin: 0 auto;
   }
   .hr {
@@ -134,7 +117,6 @@ section {
 
 @media (min-width: 850px) {
   .map {
-    width: 85%;
   }
   section {
     padding: 0 0 0;
@@ -243,17 +225,20 @@ a.btn {
 }
 
 /* Typography */
-h1 {
-  font-size: 3.6em;
-  font-weight: 100;
+.hero-h1 {
+  font-size: 1.25em;
+  font-weight: 400;
 }
-h1 a {
+
+.hero-h1 a {
   text-decoration: none;
   border-bottom: 1px solid #0971B2;
 }
-h1 a:hover {
+
+.hero-h1 a:hover {
   border-color: #ff0000;
 }
+
 .city-name {
   font-size: 1.8em;
 }
@@ -271,7 +256,42 @@ address {
   font-style: normal;
   margin: 0.75em 0;
 }
+p {
+  line-height: 1.75;
+}
+p.caption {
+  font-size: .75em;
+  color: #666;
+}
+blockquote {
+  border-left: 2px solid #ddd;
+  margin: 0 0 2em 0;
+  padding: 0 0 0 3em;
+}
 
+@media (min-width: 450px) {
+  .hero-h1 {
+    font-size: 1.5em;
+  }
+}
+
+@media (min-width: 550px) {
+  .hero-h1 {
+    font-size: 1.75em;
+  }
+}
+
+@media (min-width: 850px) {
+  .hero-h1 {
+    font-size: 2.0em;
+  }
+}
+
+@media (min-width: 1180px) {
+  .hero-h1 {
+    font-size: 2.5em;
+  }
+}
 
 /* Footer */
 .footer {
@@ -298,4 +318,10 @@ address {
   color: white;
   margin: 0;
 }
-
+/* About-specific styles */
+.about p {
+  width: 65%;
+}
+.about h2 {
+  margin: 2em 0 0.5em;
+}
