@@ -8,37 +8,38 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#fff">
         <link rel="stylesheet" href="css/style.css">
-        <link rel="apple-touch-icon" sizes="57x57" href="/img/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="/img/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="/img/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="/img/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="/img/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="/img/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="/img/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="/img/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
         <link rel="manifest" href="/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-TileImage" content="/mstile-144x144.png">
         <meta name="theme-color" content="#ffffff">
-        <meta property="og:image" content="/img/sbc.logo.blue.png">
+        <meta property="og:image" content="img/sbc.logo.blue.png">
     </head>
     <body>
       <header class="site-width header">
         <a href="/"><img class="header__logo" src="/img/sbc.logo.png" alt="Safe Bathrooms Club"></a>
         <ul class="header__nav">
           <li><a href="/about.html">About</a></li>
-          <li><a href="http://goo.gl/forms/tbFz3MJhwX">Submit Bathroom</a></li>
+          <li><a href="http://goo.gl/forms/tbFz3MJhwX">Submit a bathroom</a></li>
           <li><a href="/contact.html">Contact</a></li>
         </ul>
       </header>
 
       <section class="site-width">
-        <h1 class="hero-h1">Businesses with safe bathrooms for everyone regardless of gender identity or sexual orientation. <a href="">Add to the map.</a></h1>
+        <h1 class="hero-h1">Businesses with safe bathrooms for everyone. <a href="http://goo.gl/forms/tbFz3MJhwX">Add to the map.</a></h1>
 
       </section>  
 
@@ -70,13 +71,25 @@
       {{/each}}
       <footer class="footer">
         <ul class="footer__nav">
-          <li><a href="/about.html">About</a></li>
-          <li><a href="http://goo.gl/forms/tbFz3MJhwX">Submit Bathroom</a></li>
-          <li><a href="http://instagram.com/safebathroomsclub">@safebathroomsclub</a><img class="icon" src="img/social-instagram-outline.svg"></li>
+          <li>
+            <a href="/">
+              <img class="logo-mark" src="img/favicon-96x96.png" alt="Safe Bathrooms Club">
+            </a>
+          </li>
+          <li>
+            <a href="/about.html">About</a>
+          </li>
+          <li>
+            <a href="http://goo.gl/forms/tbFz3MJhwX">Submit a bathroom</a>
+          </li>
+          <li>
+            <!--<img class="icon" src="img/social-instagram-outline.svg">-->
+            <a href="http://instagram.com/safebathroomsclub">@safebathroomsclub</a>
+          </li>
           <li>© 2016</li>
         </ul>
       </footer>
-      <!-- GA --!>
+      <!-- GA -->
       <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -11,7 +11,7 @@ body {
 }
 
 .site-width {
-  width: 100%;
+  width: 85%;
 }
 
 /* Site Header */
@@ -94,8 +94,9 @@ section {
   .map {
   }
   .site-width {
-    padding: 0 2em 0;
+    width: 90%;
     margin: 0 auto;
+    padding: 0;
   }
   .hr {
     width: 90%;
@@ -107,8 +108,9 @@ section {
   .map {
   }
   .site-width {
-    padding: 0 3em 0;
+    width: 85%;
     margin: 0 auto;
+    padding: 0;
   }
   .hr {
     width: 85%;
@@ -118,8 +120,9 @@ section {
 @media (min-width: 850px) {
   .map {
   }
-  section {
-    padding: 0 0 0;
+  .site-width {
+    width: 85%;
+    padding: 0;
   }
 }
 
@@ -268,28 +271,60 @@ blockquote {
   margin: 0 0 2em 0;
   padding: 0 0 0 3em;
 }
-
+p img, img {
+  width: 100%;
+  max-width: 100%;
+}
 @media (min-width: 450px) {
-  .hero-h1 {
+  .hero-h1, h1 {
     font-size: 1.5em;
+  }
+  .about p {
+    width: 100%;
+  }
+  .about .figure img {
+    max-width: 100%;
+    width: 100%;
   }
 }
 
 @media (min-width: 550px) {
-  .hero-h1 {
+  .hero-h1, h1 {
     font-size: 1.75em;
+  }
+  .about p {
+    width: 100%;
+  }
+  .about .figure img {
+    max-width: 100%;
+    width: 100%;
   }
 }
 
 @media (min-width: 850px) {
-  .hero-h1 {
-    font-size: 2.0em;
+  .hero-h1, h1 {
+    font-size: 3.2em;
   }
+  .about p {
+    width: 65%;
+  }
+  .about .figure img {
+    max-width: 60%;
+    width: 60%;
+  }
+
 }
 
 @media (min-width: 1180px) {
-  .hero-h1 {
-    font-size: 2.5em;
+  .hero-h1, h1 {
+    font-size: 3.6em;
+  }
+  .about p {
+    width: 65%;
+  }
+  .about .figure img {
+    max-width: 60%;
+    width: 60%;
   }
 }
 
@@ -297,16 +332,23 @@ blockquote {
 .footer {
   margin-top: 2em;
   padding-top: 1em;
-  color: #fefefe;
-  background-color: #222;
-  height: 33vh;
+  color: #ffffff;
+  background-color: #0971B2;
+  height: 24vh;
 }
-
+.footer img {
+  vertical-align: middle;
+}
+.footer img.logo-mark {
+  max-width: 40px;
+}
 .footer__nav {
 }
 
 .footer__nav > li {
   list-style-type: none;
+  display: inline-block;
+  margin: 0 28px 0 0;
 }
 
 .footer__nav > li > a {
@@ -319,9 +361,8 @@ blockquote {
   margin: 0;
 }
 /* About-specific styles */
-.about p {
-  width: 65%;
-}
+
 .about h2 {
   margin: 2em 0 0.5em;
 }
+
